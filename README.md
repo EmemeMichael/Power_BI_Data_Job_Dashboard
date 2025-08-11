@@ -6,7 +6,8 @@ Both projects aim to help **job seekers**, **career transitioners**, and **marke
 ---
 
 ## **Project 1 – Data Jobs Dashboard (Power BI)**
-![Uploading Data Job Dashbaod.gif…]()
+![Data Job Dashbaod](https://github.com/user-attachments/assets/f534a7b4-16e1-4cf8-aa3f-623fb5056394)
+
 
 ### 📌 Overview
 
@@ -24,7 +25,7 @@ The project centralizes scattered job market data into a single, easy-to-use int
 ### 📍 Dashboard Pages
 - **Page 1 – High-Level Market View**: KPIs, job demand, top salaries, skill analysis
 
-![Uploading Main Bashboard.png…]()
+<img width="925" height="488" alt="Main Bashboard" src="https://github.com/user-attachments/assets/38073efd-18b7-436a-8108-4bfd19dbf9e5" />
 
 - **Page 2 – Job Title Drillthrough**: salary ranges, remote work stats, hiring platforms, job location map
 <img width="922" height="492" alt="Drill Through" src="https://github.com/user-attachments/assets/5b49bf70-34bf-4389-9559-2d1ccf299bdf" />
